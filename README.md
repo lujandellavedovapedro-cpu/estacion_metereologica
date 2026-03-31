@@ -6,8 +6,8 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 
 ### Datos del Estudiante
 | Apellido y Nombre | E-mail | GitHub |
-| :--- LUJAN DELLA VEDOVA,Pedro | :--- plujandellavedova@escuelasproa.edu.ar | :--- https://github.com/lujandellavedovapedro-cpu/estacion_metereologica|
-| Apellido, Nombre | ejemplo@mail.com | [ver perfil](https://github.com/tu-usuario) |
+| :---  | :---  | :---: |
+|  LUJAN DELLA VEDOVA,Pedro |  plujandellavedova@escuelasproa.edu.ar | https://github.com/lujandellavedovapedro-cpu/estacion_metereologica|
 
 ## Estructura del Proyecto
 * **analisis_ipynb/** Prototipado de datos en Google Colab.
