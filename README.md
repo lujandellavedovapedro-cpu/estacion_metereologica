@@ -1,6 +1,3 @@
-# Estación Meteorológica ProA 
-## Integrante: Luján Della Vedova Pedro
-* Sensor de temperatura, humedad y presión. 
 
 # Proyecto: Estación Meteorológica 2026
 
@@ -10,7 +7,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ### Datos del Estudiante
 | Apellido y Nombre | E-mail | GitHub |
 | :---  | :---  | :---: |
-|  LUJAN DELLA VEDOVA,Pedro |  plujandellavedova@escuelasproa.edu.ar | https://github.com/lujandellavedovapedro-cpu/estacion_metereologica|
+|  LUJAN DELLA VEDOVA,Pedro |  plujandellavedova@escuelasproa.edu.ar | [Ver perfil](https://github.com/lujandellavedovapedro-cpu/estacion_metereologica)|
 
 ## Estructura del Proyecto
 * **analisis_ipynb/** Prototipado de datos en Google Colab.
