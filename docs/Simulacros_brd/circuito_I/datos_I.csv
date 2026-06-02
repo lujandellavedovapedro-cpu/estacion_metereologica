@@ -2,4 +2,4 @@
 "U1",1," Arduino Uno R3"
 "D1",1,"Blue LED"
 "R1",1,"220 kΩ Resistor"
-"U2",1," Temperature Sensor [TMP36]"
+"UTMP36",1," Temperature Sensor [TMP36]"
