@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"UTMP36",1," Temperature Sensor [TMP36]"
+"GAS(Módulo MQ)",1," Gas Sensor"
+"U1",1," Arduino Uno R3"
+"R1",1,"4 kΩ Resistor"
+"U2",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
